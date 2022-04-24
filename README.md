@@ -17,6 +17,6 @@ Setup :
 - DISK : 1TB HDD 💀
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiis23&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiis23&show_icons=true&theme=github_dark)
 <br>
 ![Profile views](https://gpvc.arturio.dev/Luiis23)
