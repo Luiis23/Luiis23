@@ -18,5 +18,6 @@ Setup :
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiis23&show_icons=true&theme=github_dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiis23&theme=github_dark&layout=compact)
 <br>
 ![Profile views](https://gpvc.arturio.dev/Luiis23)
