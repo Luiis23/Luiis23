@@ -7,7 +7,6 @@ Languages :
 - Python 🖤
 - C
 - HTML/CSS/JS
-- Java 😢😢😢
 
 Setup :
 - OS   : ArchLinux + Qtile // ArchLinux + i3
